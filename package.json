@@ -1,7 +1,10 @@
 {
-  "name": "@ittlr/1024",
+  "publishConfig": {
+    "access": "public"
+  },
+  "name": "@ittlr/1024-util",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "packageManager": "pnpm@9.14.3",
   "description": "1024 utils",
   "author": "Miyou 1024 <love@miyou.top>",

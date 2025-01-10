@@ -1,5 +1,5 @@
 // @ts-check
-import miyou2024 from '@miyou2024/eslint-config'
+import miyou2024 from '@antfu/eslint-config'
 
 export default miyou2024(
   {

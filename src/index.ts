@@ -10,7 +10,7 @@
  *  perf 优化性能
  *  test 单元测试
  *  workflow 工作流更新
- *  build
+ *  build 修改配置
  *  ci
  *  chore
  *  types

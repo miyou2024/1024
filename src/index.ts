@@ -8,7 +8,7 @@
  *  style 调整样式
  *  refactor 重构代码
  *  perf 优化性能
- *  test
+ *  test 单元测试
  *  workflow
  *  build
  *  ci

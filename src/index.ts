@@ -5,7 +5,7 @@
  *  fix 修复BUG
  *  docs 文档更新
  *  dx 增加体验
- *  style
+ *  style 调整样式
  *  refactor
  *  perf
  *  test

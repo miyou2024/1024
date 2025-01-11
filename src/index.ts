@@ -15,7 +15,7 @@
  *  chore 其他
  *  types ts-types更新
  *  wip 进行中
- *  release
+ *  release 发布
  */
 export const one = 1
 export const two = 2

@@ -7,7 +7,7 @@
  *  dx 增加体验
  *  style 调整样式
  *  refactor 重构代码
- *  perf
+ *  perf 优化性能
  *  test
  *  workflow
  *  build

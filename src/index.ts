@@ -2,7 +2,7 @@
  * test
  * git-commit
  *  feat 新增功能
- *  fix
+ *  fix 修复BUG
  *  docs
  *  dx
  *  style

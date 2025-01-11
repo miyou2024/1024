@@ -13,7 +13,7 @@
  *  build 修改配置
  *  ci 修改ci/cd
  *  chore 其他
- *  types
+ *  types ts-types更新
  *  wip
  *  release
  */

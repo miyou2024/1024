@@ -1,7 +1,7 @@
 /**
  * test
  * git-commit
- *  feat
+ *  feat 新增功能
  *  fix
  *  docs
  *  dx

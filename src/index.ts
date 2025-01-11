@@ -11,7 +11,7 @@
  *  test 单元测试
  *  workflow 工作流更新
  *  build 修改配置
- *  ci
+ *  ci 修改ci/cd
  *  chore
  *  types
  *  wip

@@ -12,7 +12,7 @@
  *  workflow 工作流更新
  *  build 修改配置
  *  ci 修改ci/cd
- *  chore
+ *  chore 其他
  *  types
  *  wip
  *  release

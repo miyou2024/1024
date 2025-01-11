@@ -3,7 +3,7 @@
  * git-commit
  *  feat 新增功能
  *  fix 修复BUG
- *  docs
+ *  docs 文档更新
  *  dx
  *  style
  *  refactor

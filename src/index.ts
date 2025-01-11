@@ -6,7 +6,7 @@
  *  docs 文档更新
  *  dx 增加体验
  *  style 调整样式
- *  refactor
+ *  refactor 重构代码
  *  perf
  *  test
  *  workflow
